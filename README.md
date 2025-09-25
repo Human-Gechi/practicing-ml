@@ -1,5 +1,6 @@
 ﻿# Practicing-ml
-**This repository is set asides for Ml models as well as data science concepts**
+**This repository is set aside for practicing simple Ml models as well as data science concepts**
 
 
 Cheers 🥳
+
